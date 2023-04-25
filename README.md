@@ -3,10 +3,12 @@
 Summary: This HIP proposes to remove redundancy from the DAO score calculation, which has become unnecessary following the implementation of HIP 19's device restrictions. Specifically, the A score of the DAO score, as defined in HIP 51, will be updated to a more efficient equation
 
 Current formula:
-![Current HIP 51 Formula](https://raw.githubusercontent.com/hansaFL/repository-name/HIPXX-Enhancing-Emissions-Distribution-Efficiency-/png2.png)
+
+![Current HIP 51 Formula](png2.PNG)
 
 Proposed formula:
-![Future HIP 51 Formula](https://raw.githubusercontent.com/hansaFL/repository-name/HIPXX-Enhancing-Emissions-Distribution-Efficiency-/png3.png)
+
+![Future HIP 51 Formula](png3.PNG)
 
 
 ## Background ##
