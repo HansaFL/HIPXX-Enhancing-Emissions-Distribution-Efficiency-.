@@ -1,4 +1,4 @@
-HIP: Enhancing Emissions Distribution Efficiency
+# HIP: Enhancing Emissions Distribution Efficiency
 
 Summary: This HIP proposes to remove redundancy from the DAO score calculation, which has become unnecessary following the implementation of HIP 19's device restrictions. Specifically, the A score of the DAO score, as defined in HIP 51, will be updated from its current formula, (Number of active devices x onboarding fee)^.25, to a simplified version, (Number of active devices)^.25.
 
@@ -9,7 +9,7 @@ Proposed formula:
 A=(Number of active devices)0.25A=(Number of active devices)0.25
 
 
-\section{Background}
+## Background ##
 HIP 51 introduced the DAO score, which is used to determine the share of emissions each subDAO receives based on three performance metrics. One of these metrics is known as the A score. The A score gives credit to the number of devices that are active on a particular subDAO network, while also taking into account the onboarding fee. This fee was enacted to reduce the potential for exploits and discourage malicious actors from creating a zombie network. However, with the implementation of HIP 19, the Helium network has established additional protections that make the inclusion of the onboarding fee in the A score calculation unnecessary.
 
 ## Stakeholders ##
