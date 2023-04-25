@@ -4,11 +4,11 @@ Summary: This HIP proposes to remove redundancy from the DAO score calculation, 
 
 Current formula:
 
-![Current HIP 51 Formula](png2.PNG)
+![Current HIP 51 Formula](https://github.com/HansaFL/HIPXX-Enhancing-Emissions-Distribution-Efficiency-./blob/a59a22a922ffb6da9ed3457a923f930ef0baf0c5/png2.PNG)
 
 Proposed formula:
 
-![Future HIP 51 Formula](png3.PNG)
+![Future HIP 51 Formula](https://github.com/HansaFL/HIPXX-Enhancing-Emissions-Distribution-Efficiency-./blob/a59a22a922ffb6da9ed3457a923f930ef0baf0c5/png2.PNG)
 
 
 ## Background ##
