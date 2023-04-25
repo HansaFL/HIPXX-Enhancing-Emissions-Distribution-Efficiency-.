@@ -8,7 +8,7 @@ Current formula:
 
 Proposed formula:
 
-![Future HIP 51 Formula](https://github.com/HansaFL/HIPXX-Enhancing-Emissions-Distribution-Efficiency-./blob/a59a22a922ffb6da9ed3457a923f930ef0baf0c5/png2.PNG)
+![Future HIP 51 Formula](https://github.com/HansaFL/HIPXX-Enhancing-Emissions-Distribution-Efficiency-./blob/a59a22a922ffb6da9ed3457a923f930ef0baf0c5/png3.PNG)
 
 
 ## Background ##
