@@ -1,4 +1,4 @@
-# HIP: Enhancing HNT Emissions Distribution 
+# HIPXX: Enhancing HNT Emissions Distribution 
 <i> This HIP is intended to be voted on by stakers using veHNT </i>
 
 Summary: This HNT DAO HIP proposes to remove redundancy from the DAO score calculation, which has become unnecessary following the implementation of HIP 19's device restrictions. Specifically, the A score of the DAO score, as defined in HIP 51, will be updated to a more efficient equation.
